@@ -58,10 +58,4 @@ As mentioned in section 2, the outer race is fix, in consequence, the transmissi
 To validate these properties, signal 130DE will be used. Figure 4 shows a series of impulse responses at BPFO. The envelope spectrum shows a series of harmonics of BPFO, as well as a number of harmonics of the shaft speed. 
     Form signals that have an outer race fault only record 130DE (12k, 1797 rpm, 0Hp), 169(12k, 1797 rpm, 0Hp) and 3001(12k, 1797 rpm, 0Hp), should be analyzed for Group1; for Group 2: 131 (12k, 1772 rpm, 1Hp),199 (12k, 1750 rpm, 2 Hp), and 237(12k,1730 rpm, 3Hp).
     ![image](https://user-images.githubusercontent.com/36966005/159521125-2689ac87-54a1-4220-a169-7ea230bd78ed.png)
-## II. Fault Detection
-### 1.NORMAL CASE (100.MAT)
-Speed=1725 rpm => fr=28.75 (hz) and Fs=48k
-
-![image](https://user-images.githubusercontent.com/36966005/159521862-3f2fcc54-3bbe-4bb0-875a-9cc9fc7772f9.png)
-![image](https://user-images.githubusercontent.com/36966005/159521933-cf684096-a940-472b-bd64-71dfe90f9f4f.png)
 
